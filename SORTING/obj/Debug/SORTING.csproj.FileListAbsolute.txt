@@ -1,0 +1,8 @@
+D:\Imran\Test\SORTING\bin\Debug\SORTING.exe.config
+D:\Imran\Test\SORTING\bin\Debug\SORTING.exe
+D:\Imran\Test\SORTING\bin\Debug\SORTING.pdb
+D:\Imran\Test\SORTING\obj\Debug\SORTING.csproj.AssemblyReference.cache
+D:\Imran\Test\SORTING\obj\Debug\SORTING.csproj.SuggestedBindingRedirects.cache
+D:\Imran\Test\SORTING\obj\Debug\SORTING.csproj.CoreCompileInputs.cache
+D:\Imran\Test\SORTING\obj\Debug\SORTING.exe
+D:\Imran\Test\SORTING\obj\Debug\SORTING.pdb
